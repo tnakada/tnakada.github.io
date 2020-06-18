@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{% include head.html %}
+
+<body>
+
+  <div class="row">
+    <div class="large-12 large-centered columns">
+
+      <header class="masthead">
+        <img src="{{ site.baseurl }}/public/profile2.jpeg" alt="Taikan Nakada">
+      </header>
+
+    </div>
+  </div>
+
+  <div class="row">
+
+    <div class="large-6 large-offset-3 columns">
+
+      <div class="content-section">
+
+        <p>
+          Here's a brain dump of some things I work on, or read and learn about.
+        </p>
+
+      </div>
+
+			<div class="container">
+
+			{{ content }}
+
+			</div><!-- /.container -->
+
+      <footer>
+
+        <p class="copyright">
+          <!-- &copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time>. -->
+          This site is a Jekyll template <a href="https://github.com/jamigibbs/portfolio">Jami Gibbs</a> developed and it's licensed by MIT. Thanks Jami!
+        </p>
+      </footer>
+
+    </div>
+
+    <div class="large-2 large-offset-1 columns social">
+      <ul>
+        <li>
+          <nav>
+
+              <li><a href="/">Home</a></li>
+              <li><a href="/about">About</a></li>
+              <li><a href="/blog">Blog</a></li>
+              <li><a href="/reads">Reads</a></li>
+
+          </nav>
+        </li>
+        <li>
+          <a href="https://github.com/tnakada">
+            <i class="fa fa-github"></i>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.linkedin.com/in/taikan-nakada/">
+            <i class="fa fa-linkedin"></i>
+          </a>
+        </li>
+        <li>
+          <a href="https://facebook.com/">
+            <i class="fa fa-facebook"></i>
+          </a>
+        </li>
+      </ul>
+    </div>
+
+  </div>
+
+
+
+</body>
+
+</html>

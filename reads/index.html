@@ -1,0 +1,11 @@
+---
+layout: default_3
+title: Reads
+---
+	<h3>{{ page.title }}</h3>
+	<ul class="posts">
+
+	  {% for post in site.readings %}
+	    <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	  {% endfor %}
+	</ul>
