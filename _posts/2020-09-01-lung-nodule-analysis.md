@@ -1,12 +1,12 @@
 ---
 layout: post
-title: ""
+title: "Lung Tumor Detection"
 date: 2020-09-01
 image: /images/luna16.png
 categories: research
 author: "Taikan Nakada"
 authors:
-venue:
+venue: "...in progress..."
 arxiv:
 slides:
 code:
