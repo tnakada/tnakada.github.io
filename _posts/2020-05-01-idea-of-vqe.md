@@ -2,7 +2,7 @@
 layout: post
 title: "The Idea of the VQE"
 date: 2020-05-01
-image: /images/VQE.png
+image: /images/VQE.jpg
 categories: research
 author: "Taikan Nakada"
 authors:
