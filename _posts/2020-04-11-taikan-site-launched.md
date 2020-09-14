@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Taikan Launches Site"
-date: 2020-06-11
+date: 2020-04-11
 image:
 categories: research
 author: "Taikan Nakada"
-authors: "<strong>Taikan Nakada</strong>"
+authors: #"<strong>Taikan Nakada</strong>"
 venue: "None"
 arxiv: https://arxiv.org/
 slides: https://google.com
