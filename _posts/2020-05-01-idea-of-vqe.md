@@ -3,7 +3,7 @@ layout: post
 title: "The Idea of the VQE"
 date: 2020-05-01
 image: /images/VQE.png
-categories: Emory, Phys 380 Quantum Computing
+categories: "Emory, Phys 380 Quantum Computing"
 author: "Taikan Nakada"
 authors:
 venue:

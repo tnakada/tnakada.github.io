@@ -3,7 +3,7 @@ layout: post
 title: "Testing Quantum/Classical Hybrid Neural Networks"
 date: 2020-04-20
 image: /images/qiskit.png
-categories: Emory, Phys 380 Quantum Computing
+categories: "Emory, Phys 380 Quantum Computing"
 author: "Taikan Nakada"
 authors:
 venue:
