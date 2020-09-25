@@ -3,7 +3,7 @@ layout: post
 title: "Lung Tumor Detection"
 date: 2020-09-01
 image: /images/luna16.png
-categories: research
+categories: other
 author: "Taikan Nakada"
 authors:
 venue: "...in progress..."

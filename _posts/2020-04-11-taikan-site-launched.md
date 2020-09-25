@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Taikan Launches Site"
+title: "Site Launch"
 date: 2020-04-11
 image:
-categories: research
+categories: other
 author: "Taikan Nakada"
 authors: #"<strong>Taikan Nakada</strong>"
 venue:
