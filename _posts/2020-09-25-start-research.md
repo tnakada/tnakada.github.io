@@ -6,7 +6,7 @@ image: /images/gnn.jpg
 categories: research
 author:
 authors:
-venue: 
+venue:
 arxiv:
 slides:
 code:
