@@ -6,7 +6,7 @@ image: /images/VQE.png
 categories: other
 author: "Taikan Nakada"
 authors:
-venue: "None"
+venue: 
 arxiv:
 slides:
 code: https://github.com/tnakada/physics/blob/master/VariationalQuantumEigensolver.ipynb
