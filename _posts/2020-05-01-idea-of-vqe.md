@@ -3,10 +3,10 @@ layout: post
 title: "The Idea of the VQE"
 date: 2020-05-01
 image: /images/VQE.png
-categories: other
+categories: Emory, Phys 380: Quantum Computing
 author: "Taikan Nakada"
 authors:
-venue: 
+venue:
 arxiv:
 slides:
 code: https://github.com/tnakada/physics/blob/master/VariationalQuantumEigensolver.ipynb
