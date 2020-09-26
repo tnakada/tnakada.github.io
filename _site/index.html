@@ -13,6 +13,7 @@
   <link rel="canonical" href="http://localhost:4000/">
   <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
 
+  <script src="scramble.js"></script>
 </head>
 
 
@@ -36,7 +37,10 @@
                 This page is still a work in progress.
               </p>
               <p style="text-align:center">
-                <a target="_blank" href="https://mailhide.io/e/6c4V1"> Email</a> &nbsp;/&nbsp;
+
+                <div id="email" style="display:inline;">
+		              <noscript><i>Please enable Javascript to view</i></noscript>
+		            </div> &nbsp;/&nbsp;
                 <a href="https://github.com/tnakada">GitHub</a> &nbsp;/&nbsp;
                 <a href="https://www.linkedin.com/in/taikan-nakada/"> LinkedIn </a>
               </p>
@@ -84,6 +88,14 @@
 
             </td>
           </tr>
+          
+          
+          
+          
+          
+          
+          
+          
           
           
           
@@ -158,6 +170,14 @@
           
           
           
+          
+          
+          
+          
+          
+          
+          
+          
         </table>
         <br>
         <br>
@@ -218,6 +238,71 @@ Identified tumors are finally determined for malignancy.</p>
           
           
           
+          <tr>
+            <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
+              <img src="/images/VQE.png" alt="project image" style="width:auto; height:auto; max-width:100%;" />
+            </td>
+            <td style="padding:2.5%;width:75%;vertical-align:middle">
+              <h3>The Idea of the VQE</h3>
+              <br>
+              <em>Project </em>
+              <br>
+              2020-05-01
+
+              <br>
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              <p></p>
+              <p>For quantum systems, the problem complexity increases exponentially as the Hilbert space grows, and analytical methods in solving Schrodinger’s equation become intractable quickly. This fundamental challenge has been shown to be solvable using the quantum phase estimation algorithm but is merely a theoretical method until the development of the hardware catches up. The alternative solution proposed by Alberto Peruzzo, the Variational Quantum Eigensolver, is able to estimate the ground state energy of a molecule with the current quantum hardware and shallow quantum circuits by exploiting the variational principle.
+Essentially, the Hamiltonian of a system is described by the Hermitian matrix and the ground state energy of that system is the smallest eigenvalue associated with the Hamiltonian. So an arbitrary ansatz wave function is selected as an initial guess approximating the smallest eigenvalue. Calculating its expectation value and iteratively updating the wave function creates an upper bound, and thus the ground state energy of a Hamiltonian can be obtained.</p>
+
+            </td>
+          </tr>
+          
+          
+          
+          
+          
+          <tr>
+            <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
+              <img src="/images/qiskit.png" alt="project image" style="width:auto; height:auto; max-width:100%;" />
+            </td>
+            <td style="padding:2.5%;width:75%;vertical-align:middle">
+              <h3>Testing Quantum/Classical Hybrid Neural Networks</h3>
+              <br>
+              <em>Project </em>
+              <br>
+              2020-04-20
+
+              <br>
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              <p></p>
+              <p><a href="https://arxiv.org/abs/1911.02998">This paper</a> explored the possibility of leveraging quantum algorithms on quantum hardware to augment neural networks. The idea I was trying to explore is to have a parametric quantum circuit using Qiskit in the convolutional layer of a CNN implemented in PyTorch. The quantum circuit seems advantageous in the feature mapping since it’s able to explore an exponentially large space for localized patterns.</p>
+
+            </td>
+          </tr>
+          
+          
+          
+          
+          
         </table>
 
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
@@ -234,5 +319,9 @@ Identified tumors are finally determined for malignancy.</p>
     </tr>
   </table>
 </body>
-
+<script>
+		emailScramble = new scrambledString(document.getElementById('email'),
+		    'emailScramble', '0ici0@m.dlaay0akcuttnaueyd.n',
+		    [10,18,12,13,8,11,16,20,6,19,7,3,15,9,5,4,21,22,14,1,2,17,28,26,24,27,25,23]);
+</script>
 </html>
