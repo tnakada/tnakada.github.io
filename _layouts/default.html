@@ -13,6 +13,7 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
 
+  <script src="scramble.js"></script>
 </head>
 
 
@@ -36,7 +37,10 @@
                 This page is still a work in progress.
               </p>
               <p style="text-align:center">
-                <a target="_blank" href="https://mailhide.io/e/6c4V1"> Email</a> &nbsp;/&nbsp;
+
+                <div id="email" style="display:inline;">
+		              <noscript><i>Please enable Javascript to view</i></noscript>
+		            </div> &nbsp;/&nbsp;
                 <a href="https://github.com/tnakada">GitHub</a> &nbsp;/&nbsp;
                 <a href="https://www.linkedin.com/in/taikan-nakada/"> LinkedIn </a>
               </p>
@@ -246,5 +250,9 @@
     </tr>
   </table>
 </body>
-
+<script>
+		emailScramble = new scrambledString(document.getElementById('email'),
+		    'emailScramble', '0ici0@m.dlaay0akcuttnaueyd.n',
+		    [10,18,12,13,8,11,16,20,6,19,7,3,15,9,5,4,21,22,14,1,2,17,28,26,24,27,25,23]);
+</script>
 </html>
