@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Join Dr. Xie's Lab"
+title: "Joined Dr. Xie's Lab"
 date: 2020-09-25
 image: /images/gnn.jpg
 categories: research
