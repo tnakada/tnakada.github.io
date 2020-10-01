@@ -9,7 +9,7 @@ authors: #"<strong>Taikan Nakada</strong>"
 venue:
 arxiv: #https://arxiv.org/
 slides: #https://google.com
-code: #https://github.com/
+code: #https://github.com
 ---
 
 Finally getting around to putting this site together. It's powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts.
