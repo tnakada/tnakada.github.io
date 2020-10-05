@@ -2,14 +2,14 @@
 layout: post
 title: "GNN Readings"
 date: 2020-09-25
-image:
+image: /images/gnn.jpg
 categories: readings
 author:
 authors:
 venue:
 arxiv:
 slides:
-code: 
+code:
 ---
 
 [GNN Survey Papers](https://github.com/tnakada/GNNPapers) /

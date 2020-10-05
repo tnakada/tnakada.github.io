@@ -2,7 +2,7 @@
 layout: post
 title: "Joined Dr. Xie's Lab"
 date: 2020-09-25
-image: /images/gnn.jpg
+image: /images/hetionet_graph.png
 categories: research
 author:
 authors:
