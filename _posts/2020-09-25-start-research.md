@@ -12,4 +12,4 @@ slides:
 code:
 ---
 
-Start research at Dr. Xie's computational biology lab. Work is on graph neural networks
+Start research at Dr. Xie's computational biology lab. Work is on applying graph neural networks to heterogeneous multi-layer networks in omics data.
