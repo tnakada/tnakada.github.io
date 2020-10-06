@@ -13,4 +13,5 @@ code:
 ---
 
 [GNN Survey Papers](https://github.com/tnakada/GNNPapers) /
-[Graph Based Deep Learning Literature](https://github.com/tnakada/graph-based-deep-learning-literature)
+[Graph Based Deep Learning Literature](https://github.com/tnakada/graph-based-deep-learning-literature) /
+[LiteratureDL4Graph](https://github.com/tnakada/LiteratureDL4Graph)
