@@ -3,7 +3,7 @@ layout: post
 title: "Site Launch"
 date: 2020-04-11
 image: /images/GitHub-Mark.png
-categories:
+categories: Project
 author: "Taikan Nakada"
 authors: #"<strong>Taikan Nakada</strong>"
 venue:
