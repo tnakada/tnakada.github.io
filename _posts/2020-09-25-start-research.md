@@ -2,7 +2,7 @@
 layout: post
 title: "Joined Dr. Xie's Lab"
 date: 2020-09-25
-image: /images/hetionet_graph-removebg.png
+image: /images/multilayer.jpg
 categories: research
 author:
 authors:
@@ -12,4 +12,4 @@ slides:
 code:
 ---
 
-Start research at Dr. Xie's computational biology lab. Work is on applying graph neural networks to heterogeneous multi-layer networks in omics data.
+Started research at Dr. Xie's computational biology lab. I am working on novel graph learning methods to extract insights from heterogeneous multi-layered networks in biomedical data using machine learning and deep learning techniques.

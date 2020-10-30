@@ -9,7 +9,7 @@ authors:
 venue:
 arxiv:
 slides:
-code:
+code: https://github.com/tnakada/physics/blob/master/VariationalQuantumEigensolver.ipynb
 ---
 
 For quantum systems, the problem complexity increases exponentially as the Hilbert space grows, and analytical methods in solving Schrodinger's equation become intractable quickly. This fundamental challenge has been shown to be solvable using the quantum phase estimation algorithm but is merely a theoretical method until the development of the hardware catches up. The alternative solution proposed by Alberto Peruzzo, the Variational Quantum Eigensolver, is able to estimate the ground state energy of a molecule with the current quantum hardware and shallow quantum circuits by exploiting the variational principle.
