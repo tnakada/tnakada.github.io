@@ -12,7 +12,7 @@ slides:
 code:
 ---
 Details can't be disclosed yet...
-
+\
 [Imaging of cerebrospinal fluid flow: fundamentals, techniques, and clinical applications of phase-contrast magnetic resonance imaging](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6717940/)\
 \
 [Characterization of Cyclic CSF Flow in the Foramen Magnum and Upper Cervical Spinal Canal with MR Flow Imaging and Computational Fluid Dynamics](http://www.ajnr.org/content/31/6/997.long)\
