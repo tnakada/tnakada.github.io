@@ -11,14 +11,10 @@ arxiv:
 slides:
 code:
 ---
-[FASCINATE: Fast Cross-Layer Dependency Inference on Multi-Layered Networks](https://dl.acm.org/doi/10.1145/2939672.2939784)\
-\
+[FASCINATE](https://dl.acm.org/doi/10.1145/2939672.2939784)\
 [Heterogeneous Multi-Layered Network Model for Omics Data Integration and Analysis](https://www.frontiersin.org/articles/10.3389/fgene.2019.01381/full)\
-\
 [Improving Attention Mechanism in Graph Neural Networks via Cardinality Preservation](https://arxiv.org/abs/1907.02204)\
-\
-[LINE: Large-scale Information Network Embedding](https://arxiv.org/abs/1503.03578)\
-\
-[GraphVite: A High-Performance CPU-GPU Hybrid System for Node Embedding](https://arxiv.org/abs/1903.00757)\
-\
-[MultiVERSE: a multiplex and multiplex-heterogeneous network embedding approach](https://arxiv.org/abs/2008.10085)
+[LINE](https://arxiv.org/abs/1503.03578)\
+[MultiVERSE](https://arxiv.org/abs/2008.10085)\
+[Distance Encoding GNN](https://arxiv.org/abs/2009.00142)\
+[Node Embeddings via Graph Attention](https://arxiv.org/abs/1710.09599)

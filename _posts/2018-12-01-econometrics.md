@@ -12,5 +12,7 @@ slides:
 code:
 ---
 
-Learned R by building a web app in R Shiny for an econometrics class to examine suicide rates of countries by different nominal GDP between 1979 and 2016. The data suggests that suicide rates are significantly higher in countries with high GDP, where the United States and Russia dominate suicide cases. Further, in top-10 GDP countries there are on average 1000 more cases of suicide among men than women. However, further research is necessary to unearth the sociological, economical and psychological reasons for this.
+Learned R by building a (poor) [web app](Taikan_Nakada_Econ_220_Final.html) in R Shiny for an econometrics class to examine suicide rates of countries by different nominal GDP between 1979 and 2016. My first Shiny app was not well suited for the project requirements being asked, but it was a good first experience with R.\
+\
+The data suggests that suicide rates are significantly higher in countries with high GDP, where the United States and Russia dominate suicide cases. Further, in top-10 GDP countries there are on average 1000 more cases of suicide among men than women. However, further research is necessary to unearth the sociological, economical and psychological reasons for this.
 Data from [Kaggle](https://www.kaggle.com/szamil/who-suicide-statistics).
