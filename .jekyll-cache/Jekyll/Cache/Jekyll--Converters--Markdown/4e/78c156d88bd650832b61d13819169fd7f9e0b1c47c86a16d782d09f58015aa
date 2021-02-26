@@ -1,0 +1,4 @@
+I"-<p>Continued to build my R skills by <a href="Taikan_Nakada_Econ_320_final.html">investigating how weather influences</a> Uber ridership in New York City using an enriched dataset from Kaggle. I used regression analysis (Random Forest) to identify variables with the most impact.<br />
+<br />
+Surprisingly, the analysis suggested that weather has minimal impact on ridership. The time of the day, and day of the week, accounting for Holidays, had the highest variable importance. Among the weather variables, the temperature explains the most variance.</p>
+:ET
