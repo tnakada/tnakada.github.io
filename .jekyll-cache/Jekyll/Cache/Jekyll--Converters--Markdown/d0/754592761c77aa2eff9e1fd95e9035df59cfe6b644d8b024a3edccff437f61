@@ -1,5 +1,0 @@
-I"j<p>Multi-layered networks are ubiquitous in biological networks where cross-layer dependencies are crucial to understanding precise relationships between genes, diseases, and drugs (e.g. drug repurposing). I am building node embedding algorithms for messy, high-dimensional network data to compute the connectivity of these multi-layered networks. Statistical learning methods and deep learning on graphs for cross-layer link predictions to understand network relationships and structures between entities.<br />
-<br />
-*update 2/26/2021: <br />
-Dear Adaptive Biotech, Github only code snippets of entire project.</p>
-:ET
